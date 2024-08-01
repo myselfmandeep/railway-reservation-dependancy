@@ -1,0 +1,3 @@
+class Tier < ApplicationRecord
+  
+end
